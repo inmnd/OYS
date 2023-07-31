@@ -9,6 +9,6 @@ OKUL YÖNETİM SİSTEMİ
 
 *Programın çalışabilmesi için sql içinden en azından bir idareci kaydı ekleyip sonraları bu kullanıcı üzerinden öğretmen ve öğrenciler eklenmelidir.
 
-*İdareci ekranıdan eklenen öğrenci ve öğretmenlere rastgele bir şekilde şifre atanmaktadır.
+*İdareci ekranından eklenen öğrenci ve öğretmenlere rastgele bir şekilde şifre atanmaktadır.
 
 *Projenin içinde bulunana helpers dosyası birden fazla kez kullanılacak kodların statik bir metot olarak tutulduğu yerdir.
